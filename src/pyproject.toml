@@ -3,7 +3,7 @@ name = "hobbit-xml"
 version = "0.1.0"
 description = "Parsing XML and JSON data; 'There and Back Again'"
 authors = [
-    {name = "jhuntsman",email = "jhuntsman@arvest.com"}
+    {name = "Jeremy Huntsman",email = "J.T.Huntsman@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
