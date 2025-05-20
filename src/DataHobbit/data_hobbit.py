@@ -24,7 +24,7 @@ parser.add_argument(
     "-i",
     "--input",
     type=str,
-    help="Direct system path to a JSON or XSD file",
+    help="Direct system path to a JSON, XML or XSD file",
 )
 
 parser.add_argument(
